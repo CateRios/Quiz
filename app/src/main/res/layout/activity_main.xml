@@ -96,6 +96,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="8dp"
             android:layout_weight="1"
+            android:onClick="onNextButtonClicked"
             android:padding="22dp"
             android:text="@string/nextButtonLabel" />
     </LinearLayout>
